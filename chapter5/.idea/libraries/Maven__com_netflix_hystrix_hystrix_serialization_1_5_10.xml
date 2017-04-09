@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.hystrix:hystrix-serialization:1.5.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-serialization/1.5.10/hystrix-serialization-1.5.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-serialization/1.5.10/hystrix-serialization-1.5.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-serialization/1.5.10/hystrix-serialization-1.5.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

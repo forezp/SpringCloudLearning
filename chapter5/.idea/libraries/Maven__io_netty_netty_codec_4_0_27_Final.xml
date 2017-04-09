@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-codec:4.0.27.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

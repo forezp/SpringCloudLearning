@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.hystrix:hystrix-core:1.5.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

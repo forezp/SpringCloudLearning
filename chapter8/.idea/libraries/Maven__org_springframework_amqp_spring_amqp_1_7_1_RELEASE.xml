@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.amqp:spring-amqp:1.7.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/1.7.1.RELEASE/spring-amqp-1.7.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/1.7.1.RELEASE/spring-amqp-1.7.1.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/1.7.1.RELEASE/spring-amqp-1.7.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

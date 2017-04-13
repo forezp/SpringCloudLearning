@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.zipkin.java:zipkin-ui:1.19.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/java/zipkin-ui/1.19.2/zipkin-ui-1.19.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/java/zipkin-ui/1.19.2/zipkin-ui-1.19.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/java/zipkin-ui/1.19.2/zipkin-ui-1.19.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

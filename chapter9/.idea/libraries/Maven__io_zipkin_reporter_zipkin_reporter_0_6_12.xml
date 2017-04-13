@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.zipkin.reporter:zipkin-reporter:0.6.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/reporter/zipkin-reporter/0.6.12/zipkin-reporter-0.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/reporter/zipkin-reporter/0.6.12/zipkin-reporter-0.6.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/reporter/zipkin-reporter/0.6.12/zipkin-reporter-0.6.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

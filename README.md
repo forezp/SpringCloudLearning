@@ -11,7 +11,7 @@
 ### 《史上最简单的 SpringCloud 教程》系列：
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）](http://blog.csdn.net/forezp/article/details/69696915)
-* [ 史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）](http://blog.csdn.net/forezp/article/details/69788938)
+* [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）](http://blog.csdn.net/forezp/article/details/69788938)
 * [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）](http://blog.csdn.net/forezp/article/details/69808079)
 * [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）](http://blog.csdn.net/forezp/article/details/69934399)
 * [ 史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)](http://blog.csdn.net/forezp/article/details/69939114)
@@ -19,7 +19,7 @@
 * [史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)](http://blog.csdn.net/forezp/article/details/70037513)
 * [史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)](http://blog.csdn.net/forezp/article/details/70148235)
 * [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)](http://blog.csdn.net/forezp/article/details/70162074)
-* 史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心
+* [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心](http://blog.csdn.net/forezp/article/details/70183572)
 * 史上最简单的SpringCloud教程 | 第十一篇: docker部署 springcloud入门
 *  未完。。。
 *  还有很多篇。。。

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.freemarker:freemarker:2.3.25-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

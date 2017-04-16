@@ -1,0 +1,13 @@
+version: '3'
+services:
+  eureka-server:
+    build: eureka-server
+    ports:
+      - 8761:8761
+
+  service-hi:
+    build: service-hi
+    ports:
+      - 8763:8763
+
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.eureka:eureka-core:1.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-core/1.6.2/eureka-core-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-core/1.6.2/eureka-core-1.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/eureka/eureka-core/1.6.2/eureka-core-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

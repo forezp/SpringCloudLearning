@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.webjars:d3js:3.4.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/webjars/d3js/3.4.11/d3js-3.4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/webjars/d3js/3.4.11/d3js-3.4.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/webjars/d3js/3.4.11/d3js-3.4.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

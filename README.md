@@ -6,7 +6,7 @@
 
 源码下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
 
-#### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/column/details/15197.html)
+#### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
 
 ### 《史上最简单的 SpringCloud 教程》系列：
 
@@ -21,6 +21,8 @@
 * [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)](http://blog.csdn.net/forezp/article/details/70162074)
 * [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心](http://blog.csdn.net/forezp/article/details/70183572)
 * [史上最简单的SpringCloud教程 | 第十一篇:docker部署spring cloud项目](http://blog.csdn.net/forezp/article/details/70198649)
+* [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)](http://blog.csdn.net/forezp/article/details/70217283)
+* [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)](http://blog.csdn.net/forezp/article/details/70233227)
 *  未完。。。
 *  还有很多篇。。。
 
@@ -34,7 +36,8 @@
 ### 怎么支持我？
 
 * star一下哦
-* 收藏下完的专栏：[http://blog.csdn.net/column/details/15197.html](http://blog.csdn.net/column/details/15197.html)
+* 收藏下我的专栏：
+* [http://blog.csdn.net/forezp/article/details/70148833](http://blog.csdn.net/forezp/article/details/70148833)
 * 这个系列会持续更新，敬请关注！
 
 

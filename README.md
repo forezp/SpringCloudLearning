@@ -24,7 +24,7 @@
 * [史上最简单的SpringCloud教程 | 第十一篇:docker部署spring cloud项目](http://blog.csdn.net/forezp/article/details/70198649)
 * [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)](http://blog.csdn.net/forezp/article/details/70217283)
 * [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)](http://blog.csdn.net/forezp/article/details/70233227)
-* [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)(Hystrix Turbine)](http://blog.csdn.net/forezp/article/details/70245644)
+* [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)](http://blog.csdn.net/forezp/article/details/70245644)
 *  未完。。。
 *  还有很多篇。。。
 

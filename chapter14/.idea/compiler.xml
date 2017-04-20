@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter14" />
+        <module name="consul-miya" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter14" target="1.5" />
+      <module name="consul-lucy" target="1.8" />
+      <module name="consul-miya" target="1.8" />
+      <module name="miya" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

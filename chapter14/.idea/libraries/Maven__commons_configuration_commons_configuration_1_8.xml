@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: commons-configuration:commons-configuration:1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/commons-configuration/commons-configuration/1.8/commons-configuration-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/commons-configuration/commons-configuration/1.8/commons-configuration-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/commons-configuration/commons-configuration/1.8/commons-configuration-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

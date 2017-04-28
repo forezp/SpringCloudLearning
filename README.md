@@ -9,6 +9,9 @@
 
 #### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
 
+#### 关注我的SpringBoot教程：[SprigBoot非官方教程](http://blog.csdn.net/forezp/article/details/70341818)
+
+
 ### 《史上最简单的 SpringCloud 教程》系列：
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）](http://blog.csdn.net/forezp/article/details/69696915)

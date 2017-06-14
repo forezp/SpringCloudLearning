@@ -45,6 +45,7 @@
 * 收藏下我的专栏：
 * [http://blog.csdn.net/forezp/article/details/70148833](http://blog.csdn.net/forezp/article/details/70148833)
 * 这个系列会持续更新，敬请关注！
-
+* 欢迎加我的微信：
+![forezp](http://oaurstf0m.bkt.clouddn.com/miles02.jpg)
 
 

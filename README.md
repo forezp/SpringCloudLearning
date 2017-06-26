@@ -1,5 +1,7 @@
-# 史上最简单的 SpringCloud 教程 | 终章
 
+>转载请标明出处： 
+> http://blog.csdn.net/forezp/article/details/70148833
+> 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
 
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
@@ -8,9 +10,6 @@
 源码下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
 
 #### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
-
-#### 关注我的SpringBoot教程：[SprigBoot非官方教程](http://blog.csdn.net/forezp/article/details/70341818)
-
 
 ### 《史上最简单的 SpringCloud 教程》系列：
 
@@ -30,7 +29,11 @@
 * [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)](http://blog.csdn.net/forezp/article/details/70245644)
 *  未完。。。
 *  还有很多篇。。。
+* 
+### 源码篇：
 
+* [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
+* [深入理解Eureka之源码解析](http://blog.csdn.net/forezp/article/details/73017664)
 
 ### 番外篇：
 
@@ -45,10 +48,8 @@
 * 收藏下我的专栏：
 * [http://blog.csdn.net/forezp/article/details/70148833](http://blog.csdn.net/forezp/article/details/70148833)
 * 这个系列会持续更新，敬请关注！
-* 欢迎加我的微信：
 
 
-
-<img src="http://img.blog.csdn.net/20170614094145509?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="200" height="239" />
+<img src="http://img.blog.csdn.net/20170614094145509?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="200" height="239">
 
 

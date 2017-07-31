@@ -5,11 +5,11 @@
 
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
+案例全部采用Spring Boot 1.5.x ,Spring Cloud版本为Dalston.RELEASE
+
 我为什么这些文章？一是巩固自己的知识，二是希望有更加开放和与人分享的心态，三是接受各位大神的批评指教，有任何问题可以联系我: miles02@163.com .
-
-码云下载：[https://git.oschina.net/forezp/SpringCloudLearning ](https://git.oschina.net/forezp/SpringCloudLearning )
-
-源码下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
+码农下载：[https://git.oschina.net/forezp/SpringCloudLearning](https://git.oschina.net/forezp/SpringCloudLearning)
+github下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
 
 #### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
 
@@ -31,17 +31,21 @@
 * [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)](http://blog.csdn.net/forezp/article/details/70245644)
 *  未完。。。
 *  还有很多篇。。。
-* 
+ 
 ### 源码篇：
 
 * [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
 * [深入理解Eureka之源码解析](http://blog.csdn.net/forezp/article/details/73017664)
+* [深入理解Ribbon之源码解析](http://blog.csdn.net/forezp/article/details/74820899)
+*  [ 深入理解Hystrix之文档翻译](http://blog.csdn.net/forezp/article/details/75333088)
+* [深入理解Zuul之源码解析](http://blog.csdn.net/forezp/article/details/76211680)
 
 ### 番外篇：
 
 * [如何使用MongoDB+Springboot实现分布式ID?](http://blog.csdn.net/forezp/article/details/69056017)
 * [ 如何在springcloud分布式系统中实现分布式锁？](http://blog.csdn.net/forezp/article/details/68957681)
 * [ 如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
+* [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)
 
 
 ### 怎么支持我？

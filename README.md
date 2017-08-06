@@ -32,6 +32,10 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 *  未完。。。
 *  还有很多篇。。。
  
+### 进阶篇
+
+* [ Spring Cloud Sleuth超详细实战](http://blog.csdn.net/forezp/article/details/76795269)
+
 ### 源码篇：
 
 * [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
@@ -50,12 +54,10 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 ### 怎么支持我？
 
-* star一下哦
-* 收藏下我的专栏：
-* [http://blog.csdn.net/forezp/article/details/70148833](http://blog.csdn.net/forezp/article/details/70148833)
 * 这个系列会持续更新，敬请关注！
 
+* 关注我的公众号,精彩内容不能错过！
 
-<img src="http://img.blog.csdn.net/20170614094145509?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="200" height="239">
+![forezp.jpg](http://upload-images.jianshu.io/upload_images/2279594-0805748d92bba033.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 
 

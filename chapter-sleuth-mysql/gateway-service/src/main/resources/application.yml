@@ -1,0 +1,21 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 5000
+spring:
+  application:
+    name: gateway-service
+  sleuth:
+    sampler:
+      percentage: 1.0
+  zipkin:
+    base-url: http://localhost:9411
+
+zuul:
+  routes:
+    api-a:
+      path: /user-api/**
+      serviceId: user-service

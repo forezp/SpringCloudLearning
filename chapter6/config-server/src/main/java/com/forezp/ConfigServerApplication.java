@@ -12,4 +12,8 @@ public class ConfigServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigServerApplication.class, args);
 	}
+
+	public void test() {
+		System.out.println(1);
+	}
 }

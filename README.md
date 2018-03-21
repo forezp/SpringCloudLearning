@@ -11,6 +11,12 @@
 码农下载：[https://git.oschina.net/forezp/SpringCloudLearning](https://git.oschina.net/forezp/SpringCloudLearning)
 github下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
 
+### 欢迎购买我的书《深入理解Spring Cloud与微服务构建》
+
+![1.jpg](https://upload-images.jianshu.io/upload_images/2279594-3d9ee1555f555040.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+
+[京东购买](https://item.jd.com/12312724.html)  [当当购买](http://product.dangdang.com/25231114.html) [亚马逊购买](https://www.amazon.cn/dp/B079J8SCGY/ref=sr_1_2?ie=UTF8&qid=1521344315&sr=8-2&keywords=spring+cloud)
+
 #### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
 
 ### 《史上最简单的 SpringCloud 教程》系列：

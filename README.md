@@ -46,7 +46,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 ### 番外篇：
 
-* [如何使用MongoDB+Springboot实现分布式ID?](http://blog.csdn.net/forezp/article/details/69056017)
+- [如何使用MongoDB+Springboot实现分布式ID?](http://blog.csdn.net/forezp/article/details/69056017)
 * [ 如何在springcloud分布式系统中实现分布式锁？](http://blog.csdn.net/forezp/article/details/68957681)
 * [ 如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
 * [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)

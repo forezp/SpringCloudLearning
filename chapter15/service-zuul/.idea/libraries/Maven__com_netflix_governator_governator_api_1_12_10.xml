@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.governator:governator-api:1.12.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

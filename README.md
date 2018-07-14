@@ -5,21 +5,45 @@
 
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
-案例全部采用Spring Boot 1.5.x ,Spring Cloud版本为Dalston.RELEASE
+
 
 我为什么这些文章？一是巩固自己的知识，二是希望有更加开放和与人分享的心态，三是接受各位大神的批评指教，有任何问题可以联系我: miles02@163.com .
+
 码农下载：[https://git.oschina.net/forezp/SpringCloudLearning](https://git.oschina.net/forezp/SpringCloudLearning)
+
 github下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
 
 ### 欢迎购买我的书《深入理解Spring Cloud与微服务构建》
 
-![1.jpg](https://upload-images.jianshu.io/upload_images/2279594-3d9ee1555f555040.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![1.jpg](https://upload-images.jianshu.io/upload_images/2279594-3d9ee1555f555040.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/150)
 
 [京东购买](https://item.jd.com/12312724.html)  [当当购买](http://product.dangdang.com/25231114.html) [亚马逊购买](https://www.amazon.cn/dp/B079J8SCGY/ref=sr_1_2?ie=UTF8&qid=1521344315&sr=8-2&keywords=spring+cloud)
 
 #### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
 
 ### 《史上最简单的 SpringCloud 教程》系列：
+
+### Finchley版本 
+
+Spring Cloud Finchley; Spring Boot 2.0.3
+
+* [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040925)
+* [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040946)
+* [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040965)
+* [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040990)
+* [ 史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041012)
+* [史上最简单的SpringCloud教程 | 第六篇: 分布式配置中心(Spring Cloud Config)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041028)
+* [史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041045)
+* [史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041062)
+* [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041078)
+* [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041101)
+
+* [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041113)
+* [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041125)
+
+
+
+#### D版本
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）](http://blog.csdn.net/forezp/article/details/69696915)
 * [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）](http://blog.csdn.net/forezp/article/details/69788938)
@@ -56,11 +80,12 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 * [ 如何在springcloud分布式系统中实现分布式锁？](http://blog.csdn.net/forezp/article/details/68957681)
 * [ 如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
 * [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)
-
+* [ JWT如何在Spring Cloud微服务系统中在服务相互调时传递](http://blog.csdn.net/forezp/article/details/78676036)
 
 ### 怎么支持我？
 
 * 这个系列会持续更新，敬请关注！
+
 
 * 关注我的公众号,精彩内容不能错过！
 

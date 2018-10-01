@@ -19,7 +19,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 [京东购买](https://item.jd.com/12312724.html)  [当当购买](http://product.dangdang.com/25231114.html) [亚马逊购买](https://www.amazon.cn/dp/B079J8SCGY/ref=sr_1_2?ie=UTF8&qid=1521344315&sr=8-2&keywords=spring+cloud)
 
-#### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
+#### 专栏汇总：[史上最简单的 SpringCloud 教程](https://www.fangzhipeng.com/archive/?tag=SpringCloud)
 
 ### 《史上最简单的 SpringCloud 教程》系列：
 
@@ -27,52 +27,52 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 Spring Cloud Finchley; Spring Boot 2.0.3
 
-* [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040925)
-* [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040946)
-* [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040965)
-* [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040990)
-* [ 史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041012)
-* [史上最简单的SpringCloud教程 | 第六篇: 分布式配置中心(Spring Cloud Config)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041028)
-* [史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041045)
-* [史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041062)
-* [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041078)
-* [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041101)
+* [史上最简单的 SpringCloud 教程 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f1-eureka/)
+* [史上最简单的SpringCloud教程 第二篇: 服务消费者（rest+ribbon）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f2-ribbon/)
+* [史上最简单的SpringCloud教程 第三篇: 服务消费者（Feign）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f3-feign/)
+* [史上最简单的SpringCloud教程 第四篇:断路器（Hystrix）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f4-hystrix/)
+* [ 史上最简单的SpringCloud教程 第五篇: 路由网关(zuul)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f5-zuul/)
+* [史上最简单的SpringCloud教程 第六篇: 分布式配置中心(Spring Cloud Config)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f6-config/)
+* [史上最简单的SpringCloud教程 第七篇: 高可用的分布式配置中心(Spring Cloud Config)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f7-config/)
+* [史上最简单的SpringCloud教程 第八篇: 消息总线(Spring Cloud Bus)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f8-bus/)
+* [史上最简单的SpringCloud教程 第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f9-sleuth/)
+* [史上最简单的SpringCloud教程 第十篇: 高可用的服务注册中心(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f10-eureka/)
 
-* [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041113)
-* [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041125)
+* [史上最简单的SpringCloud教程 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f12-dash/)
+* [史上最简单的SpringCloud教程 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f13-turbine/)
 
 
 
 #### D版本
 
-* [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）](http://blog.csdn.net/forezp/article/details/69696915)
-* [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）](http://blog.csdn.net/forezp/article/details/69788938)
-* [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）](http://blog.csdn.net/forezp/article/details/69808079)
-* [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）](http://blog.csdn.net/forezp/article/details/69934399)
-* [ 史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)](http://blog.csdn.net/forezp/article/details/69939114)
-* [史上最简单的SpringCloud教程 | 第六篇: 分布式配置中心(Spring Cloud Config)](http://blog.csdn.net/forezp/article/details/70037291)
-* [史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)](http://blog.csdn.net/forezp/article/details/70037513)
-* [史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)](http://blog.csdn.net/forezp/article/details/70148235)
-* [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)](http://blog.csdn.net/forezp/article/details/70162074)
-* [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心](http://blog.csdn.net/forezp/article/details/70183572)
-* [史上最简单的SpringCloud教程 | 第十一篇:docker部署spring cloud项目](http://blog.csdn.net/forezp/article/details/70198649)
-* [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)](http://blog.csdn.net/forezp/article/details/70217283)
-* [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)](http://blog.csdn.net/forezp/article/details/70233227)
-* [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)](http://blog.csdn.net/forezp/article/details/70245644)
+- [史上最简单的 SpringCloud 教程 第一篇: 服务的注册与发现（Eureka）](https://www.fangzhipeng.com/springcloud/2017/07/12/sc01-eureka/)
+- [史上最简单的SpringCloud教程 第二篇: 服务消费者（rest+ribbon）](https://www.fangzhipeng.com/springcloud/2017/07/12/sc02-rest-ribbon/)
+- [史上最简单的SpringCloud教程 第三篇: 服务消费者（Feign）](https://www.fangzhipeng.com/springcloud/2017/07/12/sc03-feign/)
+- [史上最简单的SpringCloud教程 第四篇:断路器（Hystrix）](https://www.fangzhipeng.com/springcloud/2017/07/12/sc04-hystrix/)
+* [ 史上最简单的SpringCloud教程 第五篇: 路由网关(zuul)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc05-zuul/)
+* [史上最简单的SpringCloud教程 第六篇: 分布式配置中心(Spring Cloud Config)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc06-config/)
+* [史上最简单的SpringCloud教程 第七篇: 高可用的分布式配置中心(Spring Cloud Config)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc07-config/)
+* [史上最简单的SpringCloud教程 第八篇: 消息总线(Spring Cloud Bus)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc08-bus/)
+* [史上最简单的SpringCloud教程 第九篇: 服务链路追踪(Spring Cloud Sleuth)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc09-sleuth/)
+* [史上最简单的SpringCloud教程 第十篇: 高可用的服务注册中心](https://www.fangzhipeng.com/springcloud/2017/07/12/sc-ha-eureka/)
+* [史上最简单的SpringCloud教程 第十一篇:docker部署spring cloud项目](https://www.fangzhipeng.com/springcloud/2017/07/12/sc11-docker/)
+* [史上最简单的SpringCloud教程 第十二篇: 断路器监控(Hystrix Dashboard)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc12-hystix-dashbd/)
+* [史上最简单的SpringCloud教程 第十三篇: 断路器聚合监控(Hystrix Turbine)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc13-turbine/)
+* [ 史上最简单的 SpringCloud 教程 第十四篇: 服务注册(consul)](https://www.fangzhipeng.com/springcloud/2017/07/12/sc14-consul/)
 *  未完。。。
 *  还有很多篇。。。
  
 ### 进阶篇
 
-* [ Spring Cloud Sleuth超详细实战](http://blog.csdn.net/forezp/article/details/76795269)
+* [ Spring Cloud Sleuth超详细实战](https://www.fangzhipeng.com/springcloud/2017/09/13/springcloud-sleuth/)
 
 ### 源码篇：
 
-* [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
-* [深入理解Eureka之源码解析](http://blog.csdn.net/forezp/article/details/73017664)
-* [深入理解Ribbon之源码解析](http://blog.csdn.net/forezp/article/details/74820899)
+* [深入理解Feign之源码解析](https://www.fangzhipeng.com/springcloud/2017/09/12/sc-feign-raw/)
+* [深入理解Eureka之源码解析](https://www.fangzhipeng.com/springcloud/2017/09/12/eureka-resources/)
+* [深入理解Ribbon之源码解析](https://www.fangzhipeng.com/springcloud/2017/09/12/Ribbon-resources/)
 *  [ 深入理解Hystrix之文档翻译](http://blog.csdn.net/forezp/article/details/75333088)
-* [深入理解Zuul之源码解析](http://blog.csdn.net/forezp/article/details/76211680)
+* [深入理解Zuul之源码解析](https://www.fangzhipeng.com/springcloud/2017/09/12/sc-zuul-raw/)
 
 ### 番外篇：
 
@@ -90,5 +90,7 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 * 关注我的公众号,精彩内容不能错过！
 
 ![forezp.jpg](http://upload-images.jianshu.io/upload_images/2279594-0805748d92bba033.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+
+
 
 

@@ -3,6 +3,17 @@
 > http://blog.csdn.net/forezp/article/details/70148833
 > 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
 
+<div>
+    <p align="center">
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <br>
+        扫码关注公众号有惊喜
+    </p>
+    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
+        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
+    </p>
+</div>
+
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
 

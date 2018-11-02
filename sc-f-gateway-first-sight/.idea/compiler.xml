@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gs-gateway" />
+        <module name="sc-f-gateway-first-sight" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gs-gateway" target="8" />
+      <module name="sc-f-gateway-first-sight" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

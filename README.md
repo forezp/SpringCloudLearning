@@ -5,7 +5,7 @@
 
 <div>
     <p align="center">
-        <img src="http://img.blog.csdn.net/20170708155617159?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="258" height="258"/>
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
         <br>
         扫码关注有惊喜
     </p>
@@ -108,7 +108,7 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 
 <div>
     <p align="center">
-        <img src="http://img.blog.csdn.net/20170708155617159?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="258" height="258"/>
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
         <br>
         扫码关注有惊喜
     </p>
@@ -116,4 +116,5 @@ Spring Cloud Finchley; Spring Boot 2.0.3
         <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
     </p>
 </div>
+
 

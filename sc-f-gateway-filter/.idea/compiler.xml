@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sc-f-gateway-filter" target="1.7" />
+      <module name="sc-f-gateway-filter" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

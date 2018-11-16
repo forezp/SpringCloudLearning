@@ -24,8 +24,8 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="200">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/gateway/ElapsedGatewayFilterFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1135">
-              <caret line="74" lean-forward="true" selection-start-line="17" selection-end-line="74" />
+              <caret line="74" selection-start-line="17" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#627#628#0" expanded="true" />
@@ -75,7 +75,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.0.1.RELEASE/spring-cloud-gateway-core-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/factory/AbstractGatewayFilterFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="700">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#1146#1147#0" expanded="true" />
                 <element signature="e#1171#1172#0" expanded="true" />
@@ -158,9 +158,9 @@
         <option value="$PROJECT_DIR$/src/main/java/gateway/ElapsedFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/gateway/TokenFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/gateway/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/gateway/ElapsedGatewayFilterFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/gateway/ElapsedatewayFilterFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -183,7 +183,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
@@ -234,79 +234,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="actuate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="rewrite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-gateway-core:2.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-gateway-core-2.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="route" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -323,7 +250,7 @@
     <property name="SearchEverywhereHistoryKey" value="RouteLocatorBuilder&#9;FILE&#9;jar://D:/Source/javalib/org/springframework/cloud/spring-cloud-gateway-core/2.0.1.RELEASE/spring-cloud-gateway-core-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/route/builder/RouteLocatorBuilder.java&#10;RouteDefinitionRouteLocator&#9;FILE&#9;jar://D:/Source/javalib/org/springframework/cloud/spring-cloud-gateway-core/2.0.1.RELEASE/spring-cloud-gateway-core-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.java&#10;Predicate&#9;PSI&#9;JAVA://java.util.function.Predicate" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sc-f-gateway-cloud" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -407,16 +334,15 @@
       <workItem from="1541382301462" duration="631000" />
       <workItem from="1541577720666" duration="5731000" />
       <workItem from="1541645468016" duration="785000" />
-      <workItem from="1542336268089" duration="13535000" />
+      <workItem from="1542336268089" duration="14707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44765000" />
+    <option name="totallyTimeSpent" value="45937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -439,7 +365,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.50986195" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30364805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43206108" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -786,7 +712,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.0.1.RELEASE/spring-cloud-gateway-core-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/factory/AbstractGatewayFilterFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#1146#1147#0" expanded="true" />
             <element signature="e#1171#1172#0" expanded="true" />
@@ -818,7 +744,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/gateway/ElapsedGatewayFilterFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1135">
-          <caret line="74" lean-forward="true" selection-start-line="17" selection-end-line="74" />
+          <caret line="74" selection-start-line="17" selection-end-line="74" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
@@ -845,8 +771,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="200">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>

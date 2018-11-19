@@ -14,19 +14,19 @@ import reactor.core.publisher.Mono;
  * @author fangzhipeng
  * create 2018-11-16
  **/
-public class ElapsedFilter  implements GatewayFilter, Ordered {
+public class RequestTimeFilter implements GatewayFilter, Ordered {
 
     private static final Log log = LogFactory.getLog(GatewayFilter.class);
-    private static final String ELAPSED_TIME_BEGIN = "elapsedTimeBegin";
+    private static final String REQUEST_TIME_BEGIN = "requestTimeBegin";
 
 
     @Override
     public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain) {
 
-        exchange.getAttributes().put(ELAPSED_TIME_BEGIN, System.currentTimeMillis());
+        exchange.getAttributes().put(REQUEST_TIME_BEGIN, System.currentTimeMillis());
         return chain.filter(exchange).then(
                 Mono.fromRunnable(() -> {
-                    Long startTime = exchange.getAttribute(ELAPSED_TIME_BEGIN);
+                    Long startTime = exchange.getAttribute(REQUEST_TIME_BEGIN);
                     if (startTime != null) {
                         log.info(exchange.getRequest().getURI().getRawPath() + ": " + (System.currentTimeMillis() - startTime) + "ms");
                     }

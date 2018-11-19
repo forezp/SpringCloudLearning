@@ -20,7 +20,7 @@ public class Application {
 //
 //        return builder.routes()
 //                .route(r -> r.path("/customer/**")
-//                        .filters(f -> f.filter(new ElapsedFilter())
+//                        .filters(f -> f.filter(new RequestTimeFilter())
 //                                .addResponseHeader("X-Response-Default-Foo", "Default-Bar"))
 //                        .uri("http://httpbin.org:80/get")
 //                        .order(0)
@@ -37,8 +37,8 @@ public class Application {
 
 
     @Bean
-    public ElapsedGatewayFilterFactory elapsedGatewayFilterFactory() {
-        return new ElapsedGatewayFilterFactory();
+    public RequestTimeGatewayFilterFactory elapsedGatewayFilterFactory() {
+        return new RequestTimeGatewayFilterFactory();
     }
 }
 

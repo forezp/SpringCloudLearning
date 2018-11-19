@@ -26,6 +26,11 @@ public class ServiceHiApplication {
         return "hi " + name + " ,i am from port:" + port;
     }
 
+
+//    @RequestMapping("/demo/hi")
+//    public String qsw(@RequestParam(value = "name", defaultValue = "forezp") String name) {
+//        return "hi " + name + " ,i am from port:" + port;
+//    }
 }
 
 

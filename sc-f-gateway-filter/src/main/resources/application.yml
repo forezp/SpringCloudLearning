@@ -49,10 +49,10 @@ spring:
   cloud:
     gateway:
       routes:
-      - id: elapse_route
+      - id: request_time_route
         uri: http://httpbin.org:80/get
         filters:
-        - Elapsed=false
+        - RequestTime=false
         predicates:
         - After=2017-01-20T17:42:47.789-07:00[America/Denver]
-  profiles: elapse_route
+  profiles: request_time_route

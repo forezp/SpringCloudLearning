@@ -14,7 +14,7 @@ public class ServiceGatewayApplication {
     }
 
     @Bean
-    public ElapsedGatewayFilterFactory elapsedGatewayFilterFactory() {
-        return new ElapsedGatewayFilterFactory();
+    public RequestTimeGatewayFilterFactory requestTimeGatewayFilterFactory() {
+        return new RequestTimeGatewayFilterFactory();
     }
 }

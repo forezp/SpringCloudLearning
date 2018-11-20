@@ -15,11 +15,11 @@ import java.util.List;
  * @author fangzhipeng
  * create 2018-11-16
  **/
-public class ElapsedGatewayFilterFactory extends AbstractGatewayFilterFactory<ElapsedGatewayFilterFactory.Config> {
+public class RequestTimeGatewayFilterFactory extends AbstractGatewayFilterFactory<RequestTimeGatewayFilterFactory.Config> {
 
 
     private static final Log log = LogFactory.getLog(GatewayFilter.class);
-    private static final String ELAPSED_TIME_BEGIN = "elapsedTimeBegin";
+    private static final String REQUEST_TIME_BEGIN = "requestTimeBegin";
     private static final String KEY = "withParams";
 
     @Override
@@ -27,17 +27,17 @@ public class ElapsedGatewayFilterFactory extends AbstractGatewayFilterFactory<El
         return Arrays.asList(KEY);
     }
 
-    public ElapsedGatewayFilterFactory() {
+    public RequestTimeGatewayFilterFactory() {
         super(Config.class);
     }
 
     @Override
     public GatewayFilter apply(Config config) {
         return (exchange, chain) -> {
-            exchange.getAttributes().put(ELAPSED_TIME_BEGIN, System.currentTimeMillis());
+            exchange.getAttributes().put(REQUEST_TIME_BEGIN, System.currentTimeMillis());
             return chain.filter(exchange).then(
                     Mono.fromRunnable(() -> {
-                        Long startTime = exchange.getAttribute(ELAPSED_TIME_BEGIN);
+                        Long startTime = exchange.getAttribute(REQUEST_TIME_BEGIN);
                         if (startTime != null) {
                             StringBuilder sb = new StringBuilder(exchange.getRequest().getURI().getRawPath())
                                     .append(": ")

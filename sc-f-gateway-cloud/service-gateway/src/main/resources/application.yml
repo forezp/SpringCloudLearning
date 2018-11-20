@@ -8,7 +8,7 @@ spring:
     gateway:
       discovery:
         locator:
-          enabled: true
+          enabled: false
           lowerCaseServiceId: true
       routes:
       - id: service-hi
@@ -17,7 +17,7 @@ spring:
           - Path=/demo/**
         filters:
           - StripPrefix=1
-          - Elapsed=false
+          - RequestTime=true
 
 eureka:
   client:

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.projectreactor.ipc:reactor-netty:0.7.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/ipc/reactor-netty/0.7.9.RELEASE/reactor-netty-0.7.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/ipc/reactor-netty/0.7.9.RELEASE/reactor-netty-0.7.9.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/ipc/reactor-netty/0.7.9.RELEASE/reactor-netty-0.7.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

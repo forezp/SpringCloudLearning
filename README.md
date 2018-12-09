@@ -1,11 +1,11 @@
 
 >转载请标明出处： 
-> 文章首发于[https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f-all/](https://www.fangzhipeng.com/springcloud/2018/08/30/sc-f-all/)
+> https://blog.csdn.net/forezp/article/details/70148833
 > 本文出自[方志朋的博客](https://www.fangzhipeng.com/)
 
 <div>
     <p align="center">
-        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <img src="http://img.blog.csdn.net/20170708155617159?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="258" height="258"/>
         <br>
         扫码关注有惊喜
     </p>
@@ -14,7 +14,7 @@
     </p>
 </div>
 
-
+欢迎大家访问我的个人博客：https://www.fangzhipeng.com/
 
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
@@ -38,6 +38,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 ### Finchley版本 
 
+欢迎大家访问我的个人博客：https://www.fangzhipeng.com/
 
 Spring Cloud Finchley; Spring Boot 2.0.3
 
@@ -55,9 +56,25 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 * [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041113)
 * [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041125)
 
-#### Spring Cloud Gateway
+### Spring Cloud Gateway
 
 * [Spring Cloud Gateway初体验](https://blog.csdn.net/forezp/article/details/83792388)
+* [Spring Cloud Gateway 之Predict篇](https://blog.csdn.net/forezp/article/details/84926662)
+
+### 源码篇：
+
+* [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
+* [深入理解Eureka之源码解析](http://blog.csdn.net/forezp/article/details/73017664)
+* [深入理解Ribbon之源码解析](http://blog.csdn.net/forezp/article/details/74820899)
+*  [ 深入理解Hystrix之文档翻译](http://blog.csdn.net/forezp/article/details/75333088)
+* [深入理解Zuul之源码解析](http://blog.csdn.net/forezp/article/details/76211680)
+
+### 进阶篇
+
+* [ Spring Cloud Sleuth超详细实战](http://blog.csdn.net/forezp/article/details/76795269)
+* [拜托！面试请不要再问我Spring Cloud底层原理](https://blog.csdn.net/forezp/article/details/83999882)
+*  [微服务注册中心如何承载大型系统的千万级访问？](https://blog.csdn.net/forezp/article/details/83999947)
+*  [每秒上万并发下的Spring Cloud参数优化实战](https://blog.csdn.net/forezp/article/details/83999975)
 
 
 #### D版本
@@ -79,25 +96,16 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 *  未完。。。
 *  还有很多篇。。。
  
-### 进阶篇
-
-* [ Spring Cloud Sleuth超详细实战](http://blog.csdn.net/forezp/article/details/76795269)
-
-### 源码篇：
-
-* [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
-* [深入理解Eureka之源码解析](http://blog.csdn.net/forezp/article/details/73017664)
-* [深入理解Ribbon之源码解析](http://blog.csdn.net/forezp/article/details/74820899)
-*  [ 深入理解Hystrix之文档翻译](http://blog.csdn.net/forezp/article/details/75333088)
-* [深入理解Zuul之源码解析](http://blog.csdn.net/forezp/article/details/76211680)
-
 ### 番外篇：
 
 * [如何使用MongoDB+Springboot实现分布式ID?](http://blog.csdn.net/forezp/article/details/69056017)
 * [ 如何在springcloud分布式系统中实现分布式锁？](http://blog.csdn.net/forezp/article/details/68957681)
 * [ 如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
 * [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)
-* [ JWT如何在Spring Cloud微服务系统中在服务相互调时传递](http://blog.csdn.net/forezp/article/details/78676036)
+* [ JWT如何在Spring Cloud微服务系统中在服务相互调时传](http://blog.csdn.net/forezp/article/details/78676036)
+
+
+
 
 ### 怎么支持我？
 
@@ -108,7 +116,7 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 
 <div>
     <p align="center">
-        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <img src="http://img.blog.csdn.net/20170708155617159?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZm9yZXpw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="258" height="258"/>
         <br>
         扫码关注有惊喜
     </p>
@@ -116,5 +124,4 @@ Spring Cloud Finchley; Spring Boot 2.0.3
         <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
     </p>
 </div>
-
 

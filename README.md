@@ -55,11 +55,11 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 
 * [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041113)
 * [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041125)
-
-### Spring Cloud Gateway
-
-* [Spring Cloud Gateway初体验](https://blog.csdn.net/forezp/article/details/83792388)
-* [Spring Cloud Gateway 之Predict篇](https://blog.csdn.net/forezp/article/details/84926662)
+* [史上最简单的SpringCloud教程 | 第十四篇: Spring Cloud Gateway初体验](https://blog.csdn.net/forezp/article/details/83792388)
+* [史上最简单的SpringCloud教程 | 第十五篇: Spring Cloud Gateway 之Predict篇](https://blog.csdn.net/forezp/article/details/84926662)
+* [史上最简单的SpringCloud教程 | 第十六篇: Spring Cloud Gateway 之filter篇](https://blog.csdn.net/forezp/article/details/85057268)
+*  [史上最简单的SpringCloud教程 | 第十七篇: Spring Cloud Gateway 之限流篇](https://blog.csdn.net/forezp/article/details/85081162)
+*  [史上最简单的SpringCloud教程 | 第十八篇: spring cloud gateway之服务注册与发现](https://blog.csdn.net/forezp/article/details/85210153)
 
 ### 源码篇：
 

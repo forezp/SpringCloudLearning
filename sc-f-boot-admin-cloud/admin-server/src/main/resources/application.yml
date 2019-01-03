@@ -27,3 +27,10 @@ management:
   endpoint:
     health:
       show-details: ALWAYS
+
+
+spring.mail.host: smtp.163.com
+spring.mail.username: miles02
+spring.mail.password:
+spring.boot.admin.notify.mail.to: 124746406@qq.com
+

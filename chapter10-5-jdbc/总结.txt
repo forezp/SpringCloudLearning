@@ -1,0 +1,78 @@
+本Project演示Config Server从本地读取配置文件：
+Config Server 可以从本地仓库读取配置文件，也可以从远处Git 仓库读取。本地仓库是指将所有的配置文件统一写在Config Server 工程目录下。
+Config Sever 暴露HttpAPI 接口， ConfigClient 通过调用Config Sever 的H即API 接口来读取配置文件。
+
+
+一、 构建Config Server
+        1. 在Config-server工程pom.xml文件增加如下引用：（父POM文件自己注意查看）
+                    <dependency>
+            			<groupId>org.springframework.cloud</groupId>
+            			<artifactId>spring-cloud-config-server</artifactId>
+            		</dependency>
+        2. 在ConfigServerApplication类上新增@EnableConfigServer注解，开启config server功能。
+        3. 配置application.yml文件
+            spring:
+              cloud:
+                config:
+                  server:
+                    native:
+                      search-locations: classpath:/shared
+              profiles:
+                 active: native
+            application:
+                name: config-server
+            server:
+              port: 8769
+
+            #配置说明：
+            #1. spring.profiles.active=native 用来配置Config Server从本地读取配置文件
+            #2. spring.cloud.config.server.native.search-locations指定配置文件路径
+
+        4. 在resources/shared目录下新建config-client-dev.yml配置文件，配置数据如下：
+            server:
+              port: 8762
+
+            foo: foo version 1
+
+二、 构建Config client
+        1.在config-client工程的pom.xml文件中新增如下引用： （父POM文件自己注意查看）
+                    <dependency>
+            			<groupId>org.springframework.boot</groupId>
+            			<artifactId>spring-boot-starter-web</artifactId>
+            		</dependency>
+
+            		<dependency>
+            			<groupId>org.springframework.cloud</groupId>
+            			<artifactId>spring-cloud-starter-config</artifactId>
+            		</dependency>
+
+        2.在config-client的配置文件bootstrap.yml中做配置。【 注意： bootstrap.yml相对于appliation具有优先的执行顺序。】
+            spring:
+              application:
+                name: config-client
+              cloud:
+                config:
+                  uri: http://localhost:8769
+                  fail-fast: true
+              profiles:
+                active: dev
+
+             #配置说明：
+             # spring.cloud.config.url 指定configServer的访问url
+             # spring.cloud.config.fail-fast 表示如果没有读取成功，则执行快速失败
+             # sprisng.profiles.active表示读取dev环境的配置文件
+             # 所有的配置加起来，config-client就会去读config-server/resource/shared目录下面的 config-client-dev.yml文件
+
+        3.在ConfigClientApplication类中写一个API接口，读取配置文件foo变量，并通过API返回。
+        4.启动config-server工程，启动config-client工程。启动config-client工程会在控制台的日志中发现config-client向url为
+          http://localhost:8769的Config Server读取了配置文件，最终config-client程序启动的端口为8762，8762端口是在
+          config-server/resource/shared目录中的config-client-dev.yml文件中配置的。由此可以见config-client向config-server中
+          成功读取配置文件。
+
+          日志内容如： Fetching config from server at : http://localhost:8769
+
+        5. 访问http://localhost:8762/foo，浏览器显示：
+            foo version 1
+
+
+

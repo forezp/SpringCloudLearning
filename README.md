@@ -14,7 +14,8 @@
     </p>
 </div>
 
-[CSDN 2018 年 博客之星，请为我投一票，感谢！~](https://blog.csdn.net/forezp/article/details/85340278)
+
+**获取SpringCloud 、Spring Boot视频：**https://www.fangzhipeng.com/share/2017/10/01/resource-sharing.html
 
 欢迎大家访问我的个人博客：https://www.fangzhipeng.com/
 

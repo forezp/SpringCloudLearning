@@ -31,9 +31,17 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 [京东购买](https://item.jd.com/12312724.html)  [当当购买](http://product.dangdang.com/25231114.html) [亚马逊购买](https://www.amazon.cn/dp/B079J8SCGY/ref=sr_1_2?ie=UTF8&qid=1521344315&sr=8-2&keywords=spring+cloud)
 
-#### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
 
 ### 《史上最简单的 SpringCloud 教程》系列：
+
+### Greenwich版本 
+
+- [Spring Cloud Consul 之Greenwich版本全攻略](https://blog.csdn.net/forezp/article/details/87273153)
+- [spring cloud config将配置存储在数据库中](https://blog.csdn.net/forezp/article/details/87866560)
+- [Spring Cloud Sleuth 之Greenwich版本全攻略](https://blog.csdn.net/forezp/article/details/87075651)
+- [Spring Boot Admin 2.1.0 全攻略](https://blog.csdn.net/forezp/article/details/87075651)
+- [阿里分布式事务框架GTS开源了！](https://blog.csdn.net/forezp/article/details/86634907)
+
 
 ### Finchley版本 
 

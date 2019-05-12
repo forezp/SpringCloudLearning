@@ -1,0 +1,15 @@
+server:
+  port: 8762
+spring:
+  application:
+    name: nacos-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yaml
+        prefix: nacos-provider
+  profiles:
+    active: dev

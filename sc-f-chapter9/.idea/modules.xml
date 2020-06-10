@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter9.iml" filepath="$PROJECT_DIR$/sc-f-chapter9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-zipkin.iml" filepath="$PROJECT_DIR$/service-hi/service-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-miya/service2-zipkin.iml" filepath="$PROJECT_DIR$/service-miya/service2-zipkin.iml" />
+    </modules>
+  </component>
+</project>

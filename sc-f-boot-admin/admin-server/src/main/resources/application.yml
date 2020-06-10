@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: admin-server
+server:
+  port: 8769

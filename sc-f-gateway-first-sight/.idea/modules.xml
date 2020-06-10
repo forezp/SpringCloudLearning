@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gs-gateway.iml" filepath="$PROJECT_DIR$/gs-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-first-sight.iml" filepath="$PROJECT_DIR$/sc-f-gateway-first-sight.iml" />
+    </modules>
+  </component>
+</project>

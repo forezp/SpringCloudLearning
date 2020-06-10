@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.integration:spring-integration-jmx:5.0.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

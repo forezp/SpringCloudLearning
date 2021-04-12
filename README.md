@@ -33,11 +33,20 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 
 ### 《史上最简单的 SpringCloud 教程》系列：
 
+### Spring Cloud 2020.0.x版本教程
+
+- [SpringCloud 2020版本教程0：springcloud 2020版本概述](https://www.fangzhipeng.com/springcloud/2021/04/01/sc-2020-gs.html)
+- [SpringCloud 2020版本教程1：使用nacos作为注册中心和配置中心](https://www.fangzhipeng.com/springcloud/2021/04/02/sc-2020-nacos.html)
+- [SpringCloud 2020版本教程2：使用spring cloud gateway作为服务网关](https://www.fangzhipeng.com/springcloud/2021/04/03/sc-2020-gateway.html)
+- [SpringCloud 2020版本教程3：使用sentinel作为熔断器](https://www.fangzhipeng.com/springcloud/2021/04/04/sc-2020-sentinel.html)
+- [SpringCloud 2020版本教程4：使用spring cloud sleuth+zipkin实现链路追踪](https://www.fangzhipeng.com/springcloud/2021/04/05/sc-2020-sleuth.html)
+
 ### Spring Cloud Alibaba教程
 - [Spring Cloud Alibaba教程：使用Nacos作为服务注册发现组件](https://www.fangzhipeng.com/springcloud/2019/05/30/sc-nacos-discovery.html)
 - [Spring Cloud Alibaba教程：使用Nacos作为配置中心](https://www.fangzhipeng.com/springcloud/2019/06/01/sc-nacos-config.html)
 - [Spring Cloud Alibaba教程：Sentinel的使用
 ](https://www.fangzhipeng.com/springcloud/2019/06/02/sc-sentinel.html)
+
 ### Greenwich版本 
 
 - [Spring Cloud Consul 之Greenwich版本全攻略](https://www.fangzhipeng.com/springcloud/2019/02/14/sc-consul-g.html)

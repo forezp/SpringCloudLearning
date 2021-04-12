@@ -1,0 +1,25 @@
+server:
+  port: 8763
+
+spring:
+  application:
+    name: consumer
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    sentinel:
+      transport:
+        port: 18763
+        dashboard: localhost:8748
+
+feign:
+  sentinel:
+    enabled: true
+
+spring.zipkin.sender.type: web
+#设置采样率默认为 0.1 注意之前的版本是percentage 新版本中更换为 probability
+spring.sleuth.sampler.probability: 1
+spring.zipkin.base-url: http://localhost:9411/
+spring.zipkin.service.name: consumer

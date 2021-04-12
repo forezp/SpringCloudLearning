@@ -1,0 +1,17 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: provider
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+spring.zipkin.sender.type: web
+#设置采样率默认为 0.1 注意之前的版本是percentage 新版本中更换为 probability
+spring.sleuth.sampler.probability: 1
+spring.zipkin.base-url: http://localhost:9411/
+spring.zipkin.service.name: provider
